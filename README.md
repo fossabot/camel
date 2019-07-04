@@ -5,6 +5,7 @@
 [![Stack Overflow](https://img.shields.io/:stack%20overflow-apache--camel-brightgreen.svg)](http://stackoverflow.com/questions/tagged/apache-camel)
 [![Gitter](https://img.shields.io/gitter/room/apache/apache-camel.js.svg)](https://gitter.im/apache/apache-camel)
 [![Twitter](https://img.shields.io/twitter/follow/ApacheCamel.svg?label=Follow&style=social)](https://twitter.com/ApacheCamel)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxdxp1%2Fcamel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxdxp1%2Fcamel?ref=badge_shield)
  
 
 [Apache Camel](http://camel.apache.org/) is a powerful open source integration framework based on known
@@ -153,3 +154,6 @@ software:
 * **camel-undertow** can be configured to use https
 * **camel-xmlsecurity** can be configured for secure communications
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxdxp1%2Fcamel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxdxp1%2Fcamel?ref=badge_large)
